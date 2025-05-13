@@ -49,6 +49,9 @@ Columns Used:
  * Breakdowns: Payment Mode, Region, Segment, Category, Ship Mode, SubCategory.
  * Maps and Trends: Monthly trends and state-wise profit mapping.
  * User Interactivity – Enabled slicers and drill-down functionality.
+   
+## Dashboard
+![Dashboard](https://github.com/user-attachments/assets/26913f8a-a35c-4a9d-bb13-547a00cc2964)
 
 ## 🔑 Key Insights
  * The East region had 100% of current filtered sales (based on filter selection).
