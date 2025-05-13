@@ -9,17 +9,17 @@ This Power BI dashboard project analyzes the Super Store Sales dataset with the 
   * Identify top-performing subcategories, states, and shipping methods.
 
 ## ❓ Key Questions Considered
-1 - Before building the dashboard, I focused on answering these business questions:
+1 -> Before building the dashboard, I focused on answering these business questions:
 
-2 - Which region and state have the highest sales and profit?
+2 -> Which region and state have the highest sales and profit?
 
-3 - What are the monthly trends in sales and profit?
+3 -> What are the monthly trends in sales and profit?
 
-4 - Which product categories and subcategories contribute the most to revenue?
+4 -> Which product categories and subcategories contribute the most to revenue?
 
-5 - How do different payment modes, segments, and ship modes impact performance?
+5 -> How do different payment modes, segments, and ship modes impact performance?
 
-6 - How quickly are orders being delivered?
+6 -> How quickly are orders being delivered?
 
 ## 📁 Dataset Details
 Source: Sample Superstore dataset (- <a href="https://github.com/Shreyu551/superstore-powerbi-dashboard/blob/main/SuperStore_Sales_Dataset.csv">Dataset</a>)
