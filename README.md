@@ -10,10 +10,15 @@ This Power BI dashboard project analyzes the Super Store Sales dataset with the 
 
 ## ❓ Key Questions Considered
 1 - Before building the dashboard, I focused on answering these business questions:
+
 2 - Which region and state have the highest sales and profit?
+
 3 - What are the monthly trends in sales and profit?
+
 4 - Which product categories and subcategories contribute the most to revenue?
+
 5 - How do different payment modes, segments, and ship modes impact performance?
+
 6 - How quickly are orders being delivered?
 
 ## 📁 Dataset Details
